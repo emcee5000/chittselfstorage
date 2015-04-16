@@ -1,0 +1,665 @@
+body.theme-bettycommercewordpresstheme {
+  /***** Notifications *****/
+
+  /***** Buttons *****/
+
+  /***** Product Archive *****/
+
+  /***** Single Product *****/
+
+}
+body.theme-bettycommercewordpresstheme .woocommerce_message::before {
+  background-color: #999!important;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_info::before {
+  background-color: #999!important;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_info a {
+  color: #CB1D2D;
+}
+body.theme-bettycommercewordpresstheme a.button,
+body.theme-bettycommercewordpresstheme button.button,
+body.theme-bettycommercewordpresstheme input.button,
+body.theme-bettycommercewordpresstheme #review_form #submit {
+  background: #CB1D2D!important;
+  border: 1px double #560810!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme a.button:hover,
+body.theme-bettycommercewordpresstheme button.button:hover,
+body.theme-bettycommercewordpresstheme input.button:hover,
+body.theme-bettycommercewordpresstheme #review_form #submit:hover {
+  background: #D8192B!important;
+  border: 1px double #560810!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme ul.products {
+  padding: 0 0 20px 14px;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product {
+  width: 29.05%;
+  height: 275px;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product a img {
+  width: 290px;
+  height: 189px;
+  padding: 3px;
+  margin-bottom: 7px;
+  border: 1px solid #C5C5C5;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product span.onsale {
+  background: url('../images/sale-ribbon.png') no-repeat;
+  width: 93px;
+  height: 137px;
+  text-indent: -9999px;
+  box-shadow: none!important;
+  top: 1px!important;
+  left: -4px !important;
+}
+body.theme-bettycommercewordpresstheme div.product div.images img,
+body.theme-bettycommercewordpresstheme #content div.product div.images img {
+  border: 1px solid #c5c5c5;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product a.button {
+  display: none;
+}
+body.theme-bettycommercewordpresstheme .navigation .nav-next a {
+  background: #999!important;
+  text-shadow: none!important;
+  text-decoration: none;
+  border: 1px double #560810!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+}
+body.theme-bettycommercewordpresstheme .navigation .nav-next a:hover {
+  background: #aaa!important;
+  border: 1px solid #666!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme .navigation .nav-previous a {
+  background: #999!important;
+  text-shadow: none!important;
+  text-decoration: none;
+  border: 1px double #560810!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+}
+body.theme-bettycommercewordpresstheme .navigation .nav-previous a:hover {
+  background: #aaa!important;
+  border: 1px solid #666!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme div.product .product_title {
+  font-size: 24px;
+  color: #333;
+}
+body.theme-bettycommercewordpresstheme .product span.onsale {
+  background: url('../images/sale-ribbon.png') no-repeat;
+  width: 93px;
+  height: 137px;
+  text-indent: -9999px;
+  box-shadow: none!important;
+  top: -4px !important;
+  left: -4px !important;
+}
+body.theme-bettycommercewordpresstheme .single-product .summary .price:first-child {
+  font-size: 1.618em;
+  color: #9F9693;
+  font-weight: bold;
+}
+body.theme-bettycommercewordpresstheme .product_meta {
+  color: #333!important;
+  border-top: 3px solid #ccc;
+  padding-top: 10px;
+}
+body.theme-bettycommercewordpresstheme .product_meta a {
+  color: #999;
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme div.product div.images div.thumbnails a,
+body.theme-bettycommercewordpresstheme #content div.product div.images div.thumbnails a {
+  padding-bottom: 15px;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs ul.tabs {
+  margin-bottom: 0!important;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs ul.tabs li.active {
+  background: #fff!important;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs ul.tabs li {
+  -webkit-border-top-left-radius: 0!important;
+  -webkit-border-top-right-radius: 0!important;
+  -moz-border-radius-topleft: 0!important;
+  -moz-border-radius-topright: 0!important;
+  border-top-left-radius: 0!important;
+  border-top-right-radius: 0!important;
+  background: #ededed!important;
+  color: #333!important;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs .panel {
+  background: #fff;
+  padding: 2.618em!important;
+  border: 1px solid #E8E4E3;
+  margin: -1px !important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs .panel h2 {
+  color: #333;
+  font-size: 20px;
+}
+body.theme-bettycommercewordpresstheme .woocommerce_tabs .panel a {
+  color: #999;
+}
+body.theme-bettycommercewordpresstheme .related,
+body.theme-bettycommercewordpresstheme .upsells {
+  padding: 25px 0!important;
+  border-top: 3px solid #ccc;
+  margin-top: 35px;
+}
+body.theme-bettycommercewordpresstheme .related,
+body.theme-bettycommercewordpresstheme .upsells h2 {
+  font-size: 20px;
+  color: #333;
+}
+body.theme-bettycommercewordpresstheme .related,
+body.theme-bettycommercewordpresstheme .upsells ul.products {
+  padding: 20px 0;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product h3,
+body.theme-bettycommercewordpresstheme span.price {
+  text-align: center;
+}
+body.theme-bettycommercewordpresstheme ul.products li.product span.price {
+  font-size: 16px!important;
+  color: #999!important;
+}
+body.theme-bettycommercewordpresstheme .related,
+body.theme-bettycommercewordpresstheme .upsells ul.products a.button {
+  display: none;
+}
+.single-product p.price span.amount {
+  color: #CB1D2D;
+  font-size: 24px;
+  border-bottom: none!important;
+}
+.single-product p.price del span.amount {
+  color: #999;
+  font-size: 16px;
+  padding-right: 5px;
+}
+.single-product .summary p {
+  padding: 12px 0;
+  font-size: 14px;
+  color: #666;
+}
+.single-product div.product p.stock {
+  color: #333!important;
+}
+body.theme-bettycommercewordpresstheme {
+  /***** Shopping Cart *****/
+
+  /***** Login Page *****/
+
+  /***** Account Center *****/
+
+  /***** View Order *****/
+
+  /***** Track Order *****/
+
+  /***** Checkout *****/
+
+  /***** Forms *****/
+
+  /***** Widgets *****/
+
+  /***** Sidebars *****/
+
+}
+body.theme-bettycommercewordpresstheme .woocommerce-cart .content-container a.button {
+  margin: 15px 0;
+}
+body.theme-bettycommercewordpresstheme table.shop_table {
+  border: none!important;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr.cart_table_item {
+  height: 150px;
+}
+body.theme-bettycommercewordpresstheme table.cart a.remove,
+body.theme-bettycommercewordpresstheme #content table.cart a.remove {
+  background-color: #666!important;
+}
+body.theme-bettycommercewordpresstheme table.cart img,
+body.theme-bettycommercewordpresstheme #content table.cart img {
+  width: 90px!important;
+  border: 1px solid #C5C5C5;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr.cart_table_item td.product-name a {
+  color: #333!important;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr.cart_table_item td.product-price,
+body.theme-bettycommercewordpresstheme td.product-subtotal span.amount {
+  color: #333!important;
+  font-size: 16px;
+  font-weight: bold;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td.actions {
+  padding: 30px 0;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td div.coupon input.input-text {
+  width: 215px!important;
+  height: 34px;
+  outline: 4px solid #E9E9E9!important;
+  border: 1px solid #bbb;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td div.coupon input.button {
+  background: #999!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td div.coupon input.button:hover {
+  background: #aaa!important;
+  border: 1px solid #666!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals {
+  padding-top: 50px;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals h2 {
+  font-size: 24px;
+  color: #333;
+  border-bottom: 3px solid #ccc;
+  margin-bottom: 12px;
+  padding-bottom: 15px;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table {
+  width: 100%;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tbody {
+  width: 100%;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tr th,
+body.theme-bettycommercewordpresstheme td {
+  padding: 12px 0;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tfoot tr {
+  padding-top: 1px solid #666;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tr th {
+  text-align: left;
+  font-weight: normal;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tr.total th,
+body.theme-bettycommercewordpresstheme tr.total td {
+  border-bottom: 3px solid #ccc;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tr.discount th a {
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cart_totals table tr.discount td {
+  color: #CB1D2D;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .cross-sells ul.products li {
+  width: 65%;
+}
+body.theme-bettycommercewordpresstheme .cart-collaterals .shipping_calculator {
+  margin-bottom: 20px;
+}
+body.theme-bettycommercewordpresstheme .shipping-calculator-button {
+  background: #999!important;
+  text-shadow: none!important;
+  text-decoration: none;
+  border: 1px double #560810!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+}
+body.theme-bettycommercewordpresstheme .shipping-calculator-button span {
+  display: none;
+}
+body.theme-bettycommercewordpresstheme .shipping-calculator-button:hover {
+  background: #aaa!important;
+  border: 1px solid #666!important;
+  outline: 4px solid #E9E9E9!important;
+  outline-offset: 0px!important;
+  margin-left: 10px!important;
+  font-size: 16px!important;
+  font-weight: normal!important;
+  font-family: 'PT Sans', sans-serif !important;
+  padding: 8px 15px!important;
+  color: #fff!important;
+  text-shadow: none!important;
+}
+body.theme-bettycommercewordpresstheme .cross-sells h2 {
+  padding-bottom: 15px;
+}
+body.theme-bettycommercewordpresstheme .shipping-calculator-form {
+  padding-top: 25px;
+}
+body.theme-bettycommercewordpresstheme .shipping-calculator-form input.input-text {
+  height: 30px;
+  border: 1px solid #bbb;
+  outline: 4px solid #e9e9e9;
+  margin: 15px 0;
+  width: 99%;
+  padding-left: 7px;
+}
+body.theme-bettycommercewordpresstheme .shipping_calculator .button {
+  width: 135px!important;
+}
+body.theme-bettycommercewordpresstheme p.empty-cart {
+  margin-top: 20px;
+}
+body.theme-bettycommercewordpresstheme .login-head {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+}
+body.theme-bettycommercewordpresstheme .login-head p {
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme form.login {
+  border: none;
+}
+body.theme-bettycommercewordpresstheme form.login p.form-row input.button {
+  margin-left: 0px!important;
+  margin-top: 10px;
+}
+body.theme-bettycommercewordpresstheme form.login p.form-row a {
+  color: #999999;
+  margin-left: 15px;
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme p.myaccount_user {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme p.myaccount_user a {
+  color: #999999;
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme p.myaccount_address {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr,
+body.theme-bettycommercewordpresstheme tr.order {
+  height: 150px;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td.product-name a {
+  color: #333!important;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+body.theme-bettycommercewordpresstheme table.my_account_orders {
+  padding: 30px 0;
+}
+body.theme-bettycommercewordpresstheme table.my_account_orders th,
+body.theme-bettycommercewordpresstheme table.my_account_orders td {
+  vertical-align: middle;
+  width: 100px;
+}
+body.theme-bettycommercewordpresstheme table.my_account_orders th,
+body.theme-bettycommercewordpresstheme table.my_account_orders td.order-shipto {
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme table.my_account_orders th,
+body.theme-bettycommercewordpresstheme table.my_account_orders td a {
+  color: #999999;
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme a.edit {
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme address {
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme p.order-info {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme p.order-info mark {
+  background-color: #eee;
+}
+body.theme-bettycommercewordpresstheme table.shop_table tbody tr td span.amount {
+  border-top: none;
+}
+body.theme-bettycommercewordpresstheme .addresses {
+  padding: 15px 0;
+}
+body.theme-bettycommercewordpresstheme form.track_order p {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme form.track_order p.form-row {
+  background: none;
+  padding: 0px!important;
+  border: none;
+  margin: 10px!important;
+}
+body.theme-bettycommercewordpresstheme form.track_order p.form-row label {
+  padding: 5px 0;
+}
+body.theme-bettycommercewordpresstheme form.track_order p.form-row input {
+  margin-left: 0px!important;
+}
+body.theme-bettycommercewordpresstheme h3#order_review_heading {
+  padding-top: 30px;
+}
+body.theme-bettycommercewordpresstheme #order_review table.shop_table tr.checkout_table_item td.product-name {
+  color: #333!important;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+body.theme-bettycommercewordpresstheme #order_review table.shop_table tr.checkout_table_item td.product-quantity {
+  text-align: left;
+  padding-left: 15px;
+}
+body.theme-bettycommercewordpresstheme #order_review table.shop_table tfoot tr.cart-subtotal th {
+  border-top: 3px solid #ccc;
+}
+body.theme-bettycommercewordpresstheme #order_review table.shop_table tfoot tr.cart-subtotal td {
+  border-top: 3px solid #ccc;
+}
+body.theme-bettycommercewordpresstheme ul.payment_methods {
+  background: white;
+  padding: 22px 20px!important;
+  border: 1px solid #E8E4E3;
+  margin: 30px 0!important;
+  color: #666!important;
+  font-size: 14px;
+}
+body.theme-bettycommercewordpresstheme .checkout-page-content {
+  color: #666;
+  font-size: 14px;
+  padding: 15px 0;
+  line-height: 20px;
+  padding: 35px 30px 15px 30px;
+}
+body.theme-bettycommercewordpresstheme .checkout-page-content p {
+  margin: 10px 0;
+}
+body.theme-bettycommercewordpresstheme select.country_to_state {
+  position: relative;
+  z-index: 10;
+  width: 166px !important;
+  height: 26px !important;
+  line-height: 26px;
+}
+body.theme-bettycommercewordpresstheme form .shipping-calculator-form .form-row select {
+  bottom: 0;
+  float: left;
+  left: 0;
+  width: 166px;
+  height: 26px;
+  line-height: 26px;
+  text-indent: 10px;
+  background: #fff;
+  cursor: default;
+  z-index: 10;
+  color: #333;
+  border: 1px solid #bbb;
+}
+body.theme-bettycommercewordpresstheme form label {
+  padding-bottom: 8px;
+}
+body.theme-bettycommercewordpresstheme form input.input-text {
+  height: 34px;
+  outline: 4px solid #E9E9E9!important;
+  border: 1px solid #bbb;
+  padding-left: 7px;
+}
+body.theme-bettycommercewordpresstheme form textarea {
+  outline: 4px solid #E9E9E9!important;
+  border: 1px solid #bbb;
+  padding: 7px;
+  min-height: 100px;
+}
+body.theme-bettycommercewordpresstheme form input.qty {
+  height: 28px;
+  outline: 4px solid #E9E9E9!important;
+  border: 1px solid #bbb;
+  padding-left: 0px!important;
+}
+body.theme-bettycommercewordpresstheme #footer-container a {
+  color: #999999;
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li:first-child {
+  padding-top: 0px;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li {
+  margin-bottom: .618em;
+  padding-bottom: .618em;
+  border-bottom: 1px solid #E0E0E0;
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li a {
+  color: #333333;
+  font-size: 14px;
+  font-weight: normal;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li img {
+  width: 30px;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li .star-rating {
+  display: none;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li del,
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li ins,
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li span.amount {
+  color: #999999;
+}
+body.theme-bettycommercewordpresstheme #footer-container ul.product_list_widget li ins {
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme #footer-container p.total {
+  margin-bottom: 18px;
+}
+body.theme-bettycommercewordpresstheme #footer-container p.buttons a.button {
+  padding: 4px 5px!important;
+  margin-left: 0px!important;
+}
+body.theme-bettycommercewordpresstheme #footer-container p.buttons a.checkout {
+  padding: 4px 5px!important;
+  margin-left: 20px!important;
+}
+body.theme-bettycommercewordpresstheme .sidebar-right ul.product_list_widget li {
+  padding: 15px 0;
+}
+body.theme-bettycommercewordpresstheme .sidebar-right ul.product_list_widget li ins {
+  text-decoration: none;
+}
+body.theme-bettycommercewordpresstheme .sidebar-right p.total {
+  margin-bottom: 18px;
+}
+body.theme-bettycommercewordpresstheme p.buttons a.button {
+  padding: 4px 10px!important;
+  margin-left: 5px!important;
+}
+body.theme-bettycommercewordpresstheme p.buttons a.checkout {
+  padding: 4px 10px!important;
+  margin-left: 20px!important;
+}
+body.theme-bettycommercewordpresstheme .tagcloud a {
+  color: #999999;
+  padding: 3px;
+  border: 1px solid #999;
+  text-decoration: none;
+  background-color: #fff;
+}
+body.theme-bettycommercewordpresstheme .tagcloud a:hover {
+  background-color: #999999;
+  color: #fff;
+}
